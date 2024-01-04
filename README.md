@@ -1,1 +1,1 @@
-# Optimisez_la_gestion_du_stock_d'une_boutique_en_nettoyant_ses_données
+# Optimize_an _online_store_inventory_management_with_data_cleaning
