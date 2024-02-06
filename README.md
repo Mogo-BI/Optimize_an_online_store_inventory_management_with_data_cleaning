@@ -35,17 +35,24 @@ They also wished to know if they had input errors on produtcs prices. So I neede
 
   <h2>1. Technologies</h2>
 
-  <h2>2. Skills</h2>
+  <h2>2. Assessed skills</h2>
+  <li>Identify data quality issues to correct them before analysis</li>
+  <li>Address data quality issues</li>
+  <li>Perform univariate analyzes to validate the overall quality of the data</li>
+  <li>Synthesize resolved and remaining inconsistencies to create an action plan</li>
 
 <h1>IV. References</h1>
 
   <h2>1. Data</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees">Openclassrooms : Développez votre culture des données</a></li>
-
-  <h2>2. Office automation</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel">Openclassrooms : Maitrîsez les fondamentaux d'Excel</a></li>
-    <li><a href="https://openclassrooms.com/fr/courses/7139456-perfectionnez-vous-sur-excel">Openclassrooms : Perfectionnez vous sur Excel</a></li>
+    <li><a href="https://openclassrooms.com/fr/courses/7410486-nettoyez-et-analysez-votre-jeu-de-donnees">Openclassrooms : Nettoyez et analyser votre jeu de données</a></li>
+    <li><a href="https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees">Openclassrooms : Initiez vous à Python pour l'analyse de données</li>
+    <li><a href="https://openclassrooms.com/fr/courses/7771531-decouvrez-les-librairies-python-pour-la-data-science">Openclassrooms : Découvrez les librairies Python pour la data science</li>
+    <li><a href="http://www.xavierdupre.fr/app/teachpyx/helpsphinx/index.html">Xavier Dupre : Apprendre la programmation avec Python</li>
+    <li><a href="https://pandas.pydata.org/pandas-docs/dev/user_guide/10min.html">Pandas : Documentation de la librairie Pandas</li>
+    <li><a href="https://plotly.com/python/plotly-express/">Plotly : documentation de la librairie Plotly Express</li>
+    <li><a href="https://www.ionos.fr/digitalguide/sites-internet/developpement-web/markdown/">Ionos : Guide du langage de balisage léger Markdown</li>
  
-  <h2>3. Softskills</h2>
-    <li><a href="https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations">Openclassrooms : Améliorez l'impact de vos présentations</a></li>
-    <li><a href="https://course.oc-static.com/projects/Data+Storytelling+639/Fiche+pratique+-+Les+principaux+types+de++visualisations.pdf">Fiche Pratique : Les principaux types de visualisations</li>
+  <h2>2. Softskills</h2>
+    <li><a href="https://openclassrooms.com/fr/courses/5944991-gerez-votre-temps-efficacement">Openclassrooms : Gérez votre temps efficacement</a></li>
+    <li><a href="https://towardsdatascience.com/the-7-personality-traits-of-a-great-data-scientist-60059873bfa9">Towards datascience : 7 traits de personnalité d'un bon datascientist</li>
+   
