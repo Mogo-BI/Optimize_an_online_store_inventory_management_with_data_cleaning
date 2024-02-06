@@ -35,6 +35,7 @@ They also wished to know if they had input errors on produtcs prices. So I neede
 
   <h2>1. Technologies</h2>
     <li>Microsoft Excel</li>
+    <li>Microsoft Powerpoint</li>
     <li>Anaconda Navigator - Jupyter Notebook</li>
     <li>Python - Librairie Pandas</li>
     <li>Python - Librairie Plotly Express</li>
