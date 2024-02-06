@@ -34,6 +34,10 @@ They also wished to know if they had input errors on produtcs prices. So I neede
 <h1>III. Technologies & skills</h1>
 
   <h2>1. Technologies</h2>
+    <li>Microsoft Excel</li>
+    <li>Anaconda Navigator - Jupyter Notebook</li>
+    <li>Python - Librairie Pandas</li>
+    <li>Python - Librairie Plotly Express</li>
 
   <h2>2. Assessed skills</h2>
   <li>Identify data quality issues to correct them before analysis</li>
