@@ -30,3 +30,11 @@ They also wished to know if they had input errors on produtcs prices. So I neede
 
   <h2>4. Presentation of results and methodology apply</h2>
     <li>Preparing a clear and professional report include methodology, analysis results and skills evaluation</li>
+
+<h1>III. Technologies & skills</h1>
+
+  <h2>1. Technologies</h2>
+
+  <h2>2. Skills</h2>
+
+<h1>IV. References</h1>
