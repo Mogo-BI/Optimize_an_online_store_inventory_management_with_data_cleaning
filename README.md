@@ -37,8 +37,8 @@ They also wished to know if they had input errors on produtcs prices. So I neede
     <li>Microsoft Excel</li>
     <li>Microsoft Powerpoint</li>
     <li>Anaconda Navigator - Jupyter Notebook</li>
-    <li>Python - Librairie Pandas</li>
-    <li>Python - Librairie Plotly Express</li>
+    <li>Python - Pandas - Data analysis library</li>
+    <li>Python - Plotly Express - Data visualizations library</li>
 
   <h2>2. Assessed skills</h2>
   <li>Identify data quality issues to correct them before analysis</li>
