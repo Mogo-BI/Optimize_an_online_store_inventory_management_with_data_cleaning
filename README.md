@@ -1,4 +1,4 @@
-# Optimize an online store inventory management with data cleaning
+# Optimize an online store inventory management by data cleaning
 
 <h1>I. Context</h1>
 
